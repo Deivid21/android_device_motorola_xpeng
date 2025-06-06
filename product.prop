@@ -1,5 +1,2 @@
 # Google
 ro.opa.device_model_id=motorola-xpeng
-
-# Motorola
-ro.mot.build.customerid=global
